@@ -1,0 +1,12 @@
+Collection
+Array에서는 index로 데이터 서치가 가능. 데이타가 고정되어있을 경우 사용한다.
+데이터의 변화가 많을 경우는 LinkedList
+Hashset은 equals랑 hashcode 비교
+SortMap
+BST, Red-Black Tree(Treeset과  Treemap구현), AVL Tree
+Tree 사용 이유 = O(logN)을 보장하기 위해
+inorder 사용하면 sorting이 됨
+Map은 Hash로 구성 
+Key-value pair에서 Key는 중복될 수 없다.
+TreeMap은 Sorting이 가능한 Map
+ 
